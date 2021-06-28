@@ -28,13 +28,13 @@ robots:
     crawl: index,follow
 
 # website address when deployed, also given as canonical link
-url: https://tsjensen.github.io/fuse-core/
+url: https://Erick-Navarrete.github.io/bio/
 
 # The 'baseurl' is prepended to all website-internal links.
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
 # If not empty, be careful to keep the leading slash, and don't add a slash at the end.
 #baseurl: ''
-baseurl: '/fuse-core'
+baseurl: '/bio'
 
 # Enable Google Analytics. Leave empty (just "ga:" with subitems commented out) to disable.
 # In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
@@ -73,8 +73,8 @@ links:
       icon: fab fa-xing
   - linkedin:
       name: LinkedIn
-      show: false
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
+      show: true
+      href: https://linkedin.com/in/erick-nav/
       icon: fab fa-linkedin
   - googleplus:
       name: Google+
@@ -169,11 +169,11 @@ links:
   - email:
       name: Email
       show: true
-      href: mailto:jonathan.doe@host.domain
+      href: mailto:Navarrete.Erick@outlook.com
       icon: fas fa-envelope
   - publickey:
       name: PGP Key
-      show: true
+      show: false
       href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
       icon: fas fa-key
 
